@@ -21,3 +21,26 @@
     margin-left: 10px;
 }
 
+.outro-filme{
+    display:inline block;
+    background-color: #f555cd7a;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+    
+
+    .outro-filme > img{
+        display: inline block;
+        width: 220px;
+      
+    }
+    .outro-filme > .outro-info{
+        float: right;
+        margin-top: 1px ;
+        padding: 20px;
+        border: 2px solid black;
+        margin-left: 220px;
+    }
+    
